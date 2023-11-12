@@ -36,7 +36,7 @@ To run the Command-Line Calculator on your local machine, follow these steps:
 
 1. Clone this GitHub repository:
    ```
-   git clone https://github.com/zpmughal/CodingSamuraiTaskTwo.git
+   git clone https://github.com/zahidparviz/CodingSamuraiTaskTwo.git
    ```
 
 2. Navigate to the project directory:
