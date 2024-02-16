@@ -13,7 +13,7 @@ Welcome to the Command-Line Calculator project! This simple yet powerful calcula
 
 ## Introduction
 
-This project was created as Task Two during my internship at Coding Samurai. It serves as an excellent introduction to programming concepts and Java fundamentals. The calculator allows users to perform addition, subtraction, multiplication, and division operations, with the added bonus of memory functions. 
+This project was created as Task Two during my internship at Coding Samurai. It serves as an excellent introduction to programming concepts and Java fundamentals. The calculator allows users to perform addition, subtraction, multiplication, and division operations, with the bonus of memory functions. 
 
 ## Key Concepts
 
@@ -36,7 +36,7 @@ To run the Command-Line Calculator on your local machine, follow these steps:
 
 1. Clone this GitHub repository:
    ```
-   git clone https://github.com/zahidparviz/CodingSamuraiTaskTwo.git
+   git clone https://github.com/zahidprvz/CodingSamuraiTaskTwo.git
    ```
 
 2. Navigate to the project directory:
